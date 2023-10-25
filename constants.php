@@ -20,3 +20,5 @@ define("THREE_3", "third thing");
 echo ONE."<br>";
 echo TWO2."<br>";
 echo THREE_3."<br>";
+
+?>
